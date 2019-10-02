@@ -1,0 +1,7 @@
+subdirs = [
+    "audio/hal",
+    "bt/hal",
+    "power/hal",
+    "sensors/hal",
+    "thermal/hal",
+]
